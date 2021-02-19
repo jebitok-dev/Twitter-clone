@@ -25,7 +25,8 @@ gem 'simple_form', '5.1.0'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'guard', '~> 2.8'
 gem 'guard-livereload', '~> 2.5', '>= 2.5.2'
-
+gem 'gravatar_image_tag', '~> 1.2.0'
+gem 'devise', '~> 4.7.3'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
