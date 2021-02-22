@@ -1,6 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Micro-Reddit
+# Twitter-Clone
+
+![screenshot](./app/assets/images/TwitterClone1.png)
 
 This project puts your knowledge of authentication, sessions and cookies as well as forms, models, controllers, and validations to the tests. The aim of the project is to build a Twitter Clone, using devise and Rails methods/helpers.
 
@@ -35,6 +37,8 @@ To get this project up and running locally, you must already have ruby and rails
 
 - `$ rails s `
 - http://localhost:3000/user/sign_up: user can sign_up by entering their name, username, email, password, confirm password and submit the sign_up form.
+- User can edit tweet
+  ![screenshot](./app/assets/images/twitterclone.png)
 
 ## Author
 
