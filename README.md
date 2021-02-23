@@ -81,7 +81,7 @@ Finally, if you've read this far, don't forget to give this repo a ⭐️. They'
 
 - Odin Project on [Twitter-Clone project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/authentication)
 
--[Twitter Clone with Ruby on Rails by Andy Leverenz](https://www.youtube.com/watch?v=5gUysPm64a4&feature=emb_logo&ab_channel=Web-Crunch) -
+-Twitter Clone with Ruby on Rails by [Andy Leverenz](https://www.youtube.com/watch?v=5gUysPm64a4&feature=emb_logo&ab_channel=Web-Crunch)
 
 - [Microverse](https://microverse.org).
 
